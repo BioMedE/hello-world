@@ -1,4 +1,4 @@
 # hello-world
 Learning how to use GitHub
 
-BiMedE testing out GitHub abilities.
+BioMedE testing out GitHub abilities.
